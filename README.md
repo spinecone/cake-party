@@ -19,3 +19,4 @@ Important things:
 - Officiant
 - Clothing
 - Rehearsal eating
+- No gifts, just donations to FreeGeek/Mercy For Animals
