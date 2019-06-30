@@ -2,6 +2,8 @@
 
 a party with a cake
 
+https://nateandterian.party
+
 ## authors
 
-@spinecone and @vilmibm
+[@spinecone](https://github.com/spinecone) and [@vilmibm](https://github.com/vilmibm)
