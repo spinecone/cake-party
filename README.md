@@ -10,6 +10,10 @@ https://nateandterian.party
 
 ## credits
 
+cursor trail via [RV's free Javascript/DHTML effects](http://www.mf2fm.com/rv/)
+
+skull cursor via [Cursors-4U](http://www.cursors-4u.com)
+
 background images via [https://flickerfae.tumblr.com/](https://flickerfae.tumblr.com/) and [https://acommoncurtisy.weebly.com/](https://acommoncurtisy.weebly.com/)
 
 glitter text via [http://glittertextmaker.info/glitterv4/index.php](http://glittertextmaker.info/glitterv4/index.php)
