@@ -10,7 +10,7 @@ https://nateandterian.party
 
 ## credits
 
-background image via [https://flickerfae.tumblr.com/](https://flickerfae.tumblr.com/)
+background images via [https://flickerfae.tumblr.com/](https://flickerfae.tumblr.com/) and [https://acommoncurtisy.weebly.com/](https://acommoncurtisy.weebly.com/)
 
 glitter text via [http://glittertextmaker.info/glitterv4/index.php](http://glittertextmaker.info/glitterv4/index.php)
 
