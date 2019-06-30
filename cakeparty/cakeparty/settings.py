@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ["nateandterian.com", "nateandterian.party", "localhost"]
 # Application definition
 
 INSTALLED_APPS = [
+    'wedding',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
